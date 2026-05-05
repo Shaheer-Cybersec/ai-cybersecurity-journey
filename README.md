@@ -15,6 +15,7 @@ Collection of production-ready cybersecurity tools leveraging AI and automation.
 ### Security Automation
 
 #### [Security News Aggregator](https://github.com/Shaheer-Cybersec/security-news-aggregator-n8n)
+
 Automated CVE monitoring and threat intelligence aggregation using n8n workflows.
 
 **Problem Solved:** Manual CVE feed monitoring wastes 30+ analyst hours/month  
@@ -23,7 +24,8 @@ Automated CVE monitoring and threat intelligence aggregation using n8n workflows
 
 ---
 
-#### [AI Log Analyzer](https://github.com/Shaheer-Cybersec/ai-log-analyzer-langchain) *(Coming Soon)*
+#### [AI Log Analyzer](https://github.com/Shaheer-Cybersec/ai-log-analyzer-langchain) _(Coming Soon)_
+
 LLM-powered log analysis for anomaly detection with plain-English explanations.
 
 **Problem Solved:** Traditional SIEM rules miss novel attack patterns  
@@ -34,7 +36,8 @@ LLM-powered log analysis for anomaly detection with plain-English explanations.
 
 ### AI Agent Systems
 
-#### [Multi-Agent Threat Intelligence](https://github.com/Shaheer-Cybersec/multi-agent-threat-intel) *(Coming Soon)*
+#### [Multi-Agent Threat Intelligence](https://github.com/Shaheer-Cybersec/multi-agent-threat-intel) _(Coming Soon)_
+
 LangGraph-based multi-agent system for coordinated threat intelligence gathering.
 
 **Problem Solved:** Manual OSINT correlation across multiple sources  
@@ -43,7 +46,8 @@ LangGraph-based multi-agent system for coordinated threat intelligence gathering
 
 ---
 
-#### [Automated Incident Response](https://github.com/Shaheer-Cybersec/automated-incident-response) *(Coming Soon)*
+#### [Automated Incident Response](https://github.com/Shaheer-Cybersec/automated-incident-response) _(Coming Soon)_
+
 AI-orchestrated incident response playbooks with human-in-the-loop validation.
 
 **Problem Solved:** Slow incident response due to manual triage  
@@ -55,6 +59,7 @@ AI-orchestrated incident response playbooks with human-in-the-loop validation.
 ## 🎯 Technical Focus
 
 **Core Competencies:**
+
 - AI Agent Development (LangChain/LangGraph)
 - Security Automation (n8n, Python)
 - SIEM & Log Analysis
@@ -62,6 +67,7 @@ AI-orchestrated incident response playbooks with human-in-the-loop validation.
 - Incident Response Orchestration
 
 **Current Stack:**
+
 - **AI Frameworks:** LangChain, LangGraph
 - **Languages:** Python
 - **Automation:** n8n workflows
@@ -72,13 +78,13 @@ AI-orchestrated incident response playbooks with human-in-the-loop validation.
 
 ## 📊 Project Status
 
-| Project | Type | Status | Tech |
-|---------|------|--------|------|
-| Security News Aggregator | Automation | ✅ Live | n8n |
-| AI Log Analyzer | AI Agent | 🚧 Building | LangChain |
-| Multi-Agent Threat Intel | AI System | 📋 Planned | LangGraph |
-| Automated Incident Response | Integration | 📋 Planned | n8n + AI |
-| Desktop SIEM | Product | 📋 Planned | Ollama + Tkinter |
+| Project                     | Type        | Status      | Tech             |
+| --------------------------- | ----------- | ----------- | ---------------- |
+| Security News Aggregator    | Automation  | ✅ Live     | n8n              |
+| AI Log Analyzer             | AI Agent    | 🚧 Building | LangChain        |
+| Multi-Agent Threat Intel    | AI System   | 📋 Planned  | LangGraph        |
+| Automated Incident Response | Integration | 📋 Planned  | n8n + AI         |
+| Desktop SIEM                | Product     | 📋 Planned  | Ollama + Tkinter |
 
 ---
 
@@ -95,7 +101,8 @@ AI-orchestrated incident response playbooks with human-in-the-loop validation.
 
 **Positioning:** Building practical security tools that solve real operational problems, not academic experiments.
 
-**Approach:** 
+**Approach:**
+
 - Start with actual security pain points
 - Leverage AI where it adds genuine value
 - Ship production-ready, not proof-of-concept
