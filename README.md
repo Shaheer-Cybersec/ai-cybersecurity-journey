@@ -1,137 +1,112 @@
-# AI x Cybersecurity Journey - 90 Days in Public
+# AI-Powered Cybersecurity Tools
 
-🔐 **Building AI-powered security tools and documenting everything**
+> Practical security automation and AI agent development
 
-## About Me
+## Overview
 
-- **Shaheer Hussain** (@shaheersec)
-- Cybersecurity professional (Top 5% TryHackMe)
-- CEH candidate
+Collection of production-ready cybersecurity tools leveraging AI and automation. Each project addresses real security operations challenges based on 6+ years of hands-on experience.
 
-## The Mission
-
-Execute a 90-day plan to become an **AI Security Engineer** by:
-
-- Building 10+ AI-powered cybersecurity projects
-- Mastering LangChain/LangGraph for AI agents
-- Creating content across 10 platforms
-- Launching 3 service offerings
-
-## The Plan
-
-- **Phase 1 (Weeks 1-4):** Foundation - Learn automation + AI agents
-- **Phase 2 (Weeks 5-8):** Production - Build sellable tools + launch services
-- **Phase 3 (Weeks 9-12):** Scaling - Client delivery + sustainable business
+**Background:** Cybersecurity professional (Top 5% TryHackMe, CEH candidate) with focus on security automation, penetration testing, and AI-enhanced threat detection.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Projects
 
-### Phase 1: Foundation (Weeks 1-4)
+### Security Automation
 
-#### Week 1: Security News Aggregator
+#### [Security News Aggregator](https://github.com/Shaheer-Cybersec/security-news-aggregator-n8n)
+Automated CVE monitoring and threat intelligence aggregation using n8n workflows.
 
-Automated CVE monitoring workflow using n8n  
-**Tech:** n8n, RSS feeds, Slack integration  
-**Status:** 🚧 Building this week
-
-#### Week 2: AI Log Anomaly Detector
-
-_Coming next week..._
-
-#### Week 3: Multi-Agent Threat Intel System
-
-_Coming soon..._
-
-#### Week 4: Automated Incident Response
-
-_Coming soon..._
-
-### Phase 2: Production (Weeks 5-8)
-
-_Coming soon..._
-
-### Phase 3: Scaling (Weeks 9-12)
-
-_Coming soon..._
+**Problem Solved:** Manual CVE feed monitoring wastes 30+ analyst hours/month  
+**Tech Stack:** n8n, RSS parsing, Slack webhooks, CVSS filtering  
+**Status:** ✅ Production ready
 
 ---
 
-## 📊 Progress Tracker
+#### [AI Log Analyzer](https://github.com/Shaheer-Cybersec/ai-log-analyzer-langchain) *(Coming Soon)*
+LLM-powered log analysis for anomaly detection with plain-English explanations.
 
-- **Day 1:** ✅ Portfolio repo created, n8n installed, journey announced
-- **Day 2:** ⏳ Start n8n tutorial, begin building aggregator
-- **Day 3:** ⏳ Continue building
-- **Day 4:** ⏳ Complete aggregator, document in GitHub
-- **Day 5:** ⏳ Publish blog post, share on Reddit
-
----
-
-## 🛠️ Tech Stack
-
-**Core (Mastering):**
-
-- LangChain/LangGraph - AI agents (PRIMARY SKILL)
-- Python
-- Claude Pro/Code
-- Ollama - Local LLM
-- Docker
-
-**Supporting (Learning):**
-
-- n8n - Automation workflows
-- VS Code
-- GitHub
+**Problem Solved:** Traditional SIEM rules miss novel attack patterns  
+**Tech Stack:** LangChain, Claude API, Python  
+**Status:** 🚧 In development
 
 ---
 
-## 📱 Follow the Journey
+### AI Agent Systems
 
-Daily updates across all platforms:
+#### [Multi-Agent Threat Intelligence](https://github.com/Shaheer-Cybersec/multi-agent-threat-intel) *(Coming Soon)*
+LangGraph-based multi-agent system for coordinated threat intelligence gathering.
 
-🔗 **All Links:** [linktr.ee/shaheersec](https://linktr.ee/shaheersec)
-
-**Platforms:**
-
-- LinkedIn: [shaheer-hussain-cybersec](https://linkedin.com/in/shaheer-hussain-cybersec)
-- Twitter: [@Shaheer_sec](https://x.com/Shaheer_sec)
-- YouTube: [@ShaheerSec](https://youtube.com/@ShaheerSec)
-- TikTok: [@shaheer_sec](https://tiktok.com/@shaheer_sec)
-- Instagram: [@shaheersec](https://instagram.com/shaheersec)
-- GitHub: [Shaheer-Cybersec](https://github.com/Shaheer-Cybersec)
-- Medium: [@shaheersec](https://medium.com/@shaheersec)
-- Dev.to: [@shaheersec](https://dev.to/shaheersec)
-- Reddit: [u/Shaheersec](https://reddit.com/user/Shaheersec)
-- Threads: [@shaheersec](https://threads.net/@shaheersec)
+**Problem Solved:** Manual OSINT correlation across multiple sources  
+**Tech Stack:** LangGraph, Python, API integrations  
+**Status:** 📋 Planned
 
 ---
 
-## 📈 Goals
+#### [Automated Incident Response](https://github.com/Shaheer-Cybersec/automated-incident-response) *(Coming Soon)*
+AI-orchestrated incident response playbooks with human-in-the-loop validation.
 
-**By Day 90:**
-
-- ✅ 10+ AI security projects
-- ✅ 9,000+ followers across platforms
-- ✅ 3 service offerings launched
-- ✅ 2-3 paying clients
-- ✅ Foundation for 6-figure income
+**Problem Solved:** Slow incident response due to manual triage  
+**Tech Stack:** n8n, LangChain, Slack, SOAR integration  
+**Status:** 📋 Planned
 
 ---
 
-## 💡 My Positioning
+## 🎯 Technical Focus
 
-**"AI Security Engineer who knows automation"**
+**Core Competencies:**
+- AI Agent Development (LangChain/LangGraph)
+- Security Automation (n8n, Python)
+- SIEM & Log Analysis
+- Threat Intelligence Aggregation
+- Incident Response Orchestration
 
-NOT: "Automation freelancer who dabbles in security"
-
-**Competitive Advantages:**
-
-1. 6-7 years cybersecurity experience
-2. AI + Security intersection (rare)
-3. Building in public (transparency)
-4. Content + Code + Services (triple threat)
+**Current Stack:**
+- **AI Frameworks:** LangChain, LangGraph
+- **Languages:** Python
+- **Automation:** n8n workflows
+- **LLMs:** Claude (Anthropic), Ollama (local)
+- **Infrastructure:** Docker, Git
 
 ---
 
-**Start Date:** May 5, 2026  
-**Current Status:** Week 1, Day 1 - Let's build! 🚀
+## 📊 Project Status
+
+| Project | Type | Status | Tech |
+|---------|------|--------|------|
+| Security News Aggregator | Automation | ✅ Live | n8n |
+| AI Log Analyzer | AI Agent | 🚧 Building | LangChain |
+| Multi-Agent Threat Intel | AI System | 📋 Planned | LangGraph |
+| Automated Incident Response | Integration | 📋 Planned | n8n + AI |
+| Desktop SIEM | Product | 📋 Planned | Ollama + Tkinter |
+
+---
+
+## 🔗 Connect
+
+- **Website:** [linktr.ee/shaheersec](https://linktr.ee/shaheersec)
+- **LinkedIn:** [shaheer-hussain-cybersec](https://linkedin.com/in/shaheer-hussain-cybersec)
+- **Twitter:** [@Shaheer_sec](https://x.com/Shaheer_sec)
+- **Medium:** [@shaheersec](https://medium.com/@shaheersec)
+
+---
+
+## 💡 Philosophy
+
+**Positioning:** Building practical security tools that solve real operational problems, not academic experiments.
+
+**Approach:** 
+- Start with actual security pain points
+- Leverage AI where it adds genuine value
+- Ship production-ready, not proof-of-concept
+- Open source for community benefit
+
+---
+
+## 📝 License
+
+Individual projects have their own licenses. See respective repositories for details.
+
+---
+
+**Last Updated:** May 2026
