@@ -126,5 +126,7 @@ Individual projects have their own licenses. See respective repositories for det
 
 ---
 
-**Last Updated:** May 2026  
+
 **Current Phase:** Week 2/12 of 90-day AI x Cybersecurity Journey
+
+**Updated: May 2026**
