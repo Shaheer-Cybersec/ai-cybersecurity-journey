@@ -121,8 +121,8 @@ AI-orchestrated incident response playbooks with human-in-the-loop validation.
 ---
 
 ## 📝 License
-
-Individual projects have their own licenses. See respective repositories for details.
+  
+Individual projects have their own licenses. See respective repositories for details.  
 
 ---
 
